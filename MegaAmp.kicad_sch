@@ -5,11 +5,11 @@
   (paper "A")
 
   (title_block
-    (title "Genesis Single Bypass Model 3")
+    (title "Genesis Model 3 Stereo Audio")
     (date "2021-01-17")
     (rev "A")
     (company "Late to the Game")
-    (comment 1 "https://github.com/LateToTheGame16/sega-triple-bypass")
+    (comment 1 "https://github.com/LateToTheGame16/Genesis-Model3-Stereo")
     (comment 2 "Licensed under CERN OHL v.1.2")
     (comment 3 "For Genesis 3 consoles only")
   )
