@@ -1,4 +1,4 @@
-# Sega Genesis Single Bypass Model 3
+# Sega Genesis Model 3 Stereo Mod
 Restore stereo audio on a Sega Model 3. Only three wires to solder. Composite video still works! Only usable on a Model 3 Genesis.
 This is a redesign of the fantastic 3bp from dbElectronics and Tian Feng. The goal of this project was to minimize wires to only do the audio bypass.
 ![top_screenshot](1bp-m3-top.png) ![back_screenshot](1bp-m3-back.png)
