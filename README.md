@@ -1,7 +1,7 @@
 # Sega Genesis Single Bypass Model 3
-Restore audio for use with a 32X. Only three wires to solder. Composite video still works! Only usable on a Model 3 Genesis.
-![top_screenshot](1bp-m3-top.png)
-This is a redesign of the fantastic 3bp from dbElectronics and Tian Feng. The goal of this project was to minimize wires to only do the audio bypass. 
+Restore stereo audio on a Sega Model 3. Only three wires to solder. Composite video still works! Only usable on a Model 3 Genesis.
+This is a redesign of the fantastic 3bp from dbElectronics and Tian Feng. The goal of this project was to minimize wires to only do the audio bypass.
+![top_screenshot](1bp-m3-top.png) ![back_screenshot](1bp-m3-back.png)
 
 # Installation Instructions
 Currently I suggest using the Audio installation instructions from the mega amp 2.0
