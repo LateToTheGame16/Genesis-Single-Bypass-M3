@@ -946,7 +946,7 @@
   )
 
   (symbol (lib_id "Graphic:Logo_Open_Hardware_Small") (at 254 180.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid bef3bb41-5dd6-4e07-9e39-f128ef5b94e9)
     (property "Reference" "LOGO1" (id 0) (at 254 173.355 0)
       (effects (font (size 1.27 1.27)) hide)
